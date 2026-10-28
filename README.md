@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shahroz Zafar — Full-Stack Developer | MERN | Laravel | Stripe | APIs
+# 👋 Hi, I'm Shahroz Zafar - Senior Full-Stack Software Engineer | MERN | Laravel | Stripe | APIs
 
 🔧 Full-Stack Web Development  
 ⚛️ React | 🚀 Next.js | 🌐 Ember.js
@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack Developer** with over **8 years of experience** building modern, scalable, and secure web applications.
+I'm a passionate **Senior Full-Stack Software Engineer** with over **10 years of experience** building modern, scalable, and secure web applications.
 
 I specialize in:
 
@@ -62,7 +62,7 @@ Whether you're a startup founder or a tech lead, I help turn ideas into **functi
 
 ## 👨‍💼 Why Work With Me?
 
-- 💼 **5200+ Upwork Hours**  
+- 💼 **6,500+ Upwork Hours**  
 - 🏅 **Top Rated Plus** Freelancer  
 - 🥇 **100% Job Success**  
 - 🗣️ **Clear, consistent communication**  
@@ -77,7 +77,8 @@ I’m committed to building products that are **not just functional, but valuabl
 Have a project in mind? I'm currently **open to freelance opportunities, remote roles, and collaborations**.
 
 📧 **Email:** shahroz@aalasolutions.com  
-💼 **LinkedIn:** [https://www.linkedin.com/in/shahroz-zafar-bb6865ba](https://www.linkedin.com/in/shahroz-zafar-bb6865ba)
+💼 **LinkedIn:** [https://www.linkedin.com/in/shahrozzafardev](https://www.linkedin.com/in/shahrozzafardev)  
+🌐 **Portfolio:** [https://shahrozzafar.vercel.app](https://shahrozzafar.vercel.app)  
 💻 **Upwork:** [https://www.upwork.com/freelancers/~0110263c66d34a3870](https://www.upwork.com/freelancers/~0110263c66d34a3870)
 
 ---
